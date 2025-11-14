@@ -1,6 +1,4 @@
----
-
-# 🏦 ePay – Java + JDBC (My First Official College Project)
+# ePay – Java + JDBC (My First Official College Project)
 
 **ePay** is a lightweight payment application built using **pure Java and JDBC**, designed to simulate basic digital banking features.
 This project is extremely special — it was the **first official mini-application I ever built during my college days**, right after learning Java and JDBC.
